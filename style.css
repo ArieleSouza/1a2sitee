@@ -1,0 +1,23 @@
+body {
+    background: #CCCCCC /*cor de fundo*/
+}
+
+#banner {
+    width: 100%; /*largura*/
+}
+
+h1 {
+    text-align: center /*alinhamento do texto*/
+}
+
+p {
+    text-align: center;/*alinhamento do texto/*
+}
+
+#missao {
+    font-size: 20px /*tamanho da fonte*/
+}
+
+em strong {
+    color: red;/*COR*/
+}
